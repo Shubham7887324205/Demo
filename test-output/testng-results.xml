@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T22:11:43 IST" name="Default suite" finished-at="2023-02-08T22:12:19 IST" duration-ms="36544">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T22:11:43 IST" name="Default test" finished-at="2023-02-08T22:12:19 IST" duration-ms="36544">
+      <class name="TestClass.Flipkart_testClass">
+        <test-method is-config="true" signature="url()[pri:0, instance:TestClass.Flipkart_testClass@78b66d36]" started-at="2023-02-08T22:11:43 IST" name="url" finished-at="2023-02-08T22:11:51 IST" duration-ms="8757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="Test_Case()[pri:0, instance:TestClass.Flipkart_testClass@78b66d36]" started-at="2023-02-08T22:11:51 IST" name="Test_Case" finished-at="2023-02-08T22:12:19 IST" duration-ms="27704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Case -->
+      </class> <!-- TestClass.Flipkart_testClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
